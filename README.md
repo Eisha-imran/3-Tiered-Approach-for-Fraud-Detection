@@ -32,6 +32,10 @@ By implementing this system, we anticipate a significant improvement in detectin
 ### Conclusion
 As financial transactions grow digitally, the sophistication of fraudulent schemes evolves. Our project aims to stay ahead by leveraging multiple methods to detect fraud in one hybrid system. This improves the safeguarding of financial assets and fosters a secure environment for businesses and customers.
 
+### Dashboard
+
+https://datacon-fraud-detection.streamlit.app/
+
 ### Next steps
 Integrate the fraud detection framework into a real-time transaction monitoring system to analyze incoming transactions in real-time, provide alerts and enable immediate action on suspicious transactions
 
