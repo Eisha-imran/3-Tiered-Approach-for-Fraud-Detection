@@ -36,6 +36,8 @@ As financial transactions grow digitally, the sophistication of fraudulent schem
 
 https://datacon-fraud-detection.streamlit.app/
 
+created by my team member Itee
+
 ### Next steps
 Integrate the fraud detection framework into a real-time transaction monitoring system to analyze incoming transactions in real-time, provide alerts and enable immediate action on suspicious transactions
 
